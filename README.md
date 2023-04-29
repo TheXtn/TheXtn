@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thextn&" alt="thextn" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Software architecture**
 
 - 👨‍💻 All of my projects are available at [https://www.yusefmrt.me](https://www.yusefmrt.me)
 
-- 💬 Ask me about **NextJs ReactJs NodeJS**
+- 💬 Ask me about **NextJs ReactJs NodeJS NestJs Docker Kubernetes Ngnix AWS DIGITALOCEAN **
 
 - 📫 How to reach me **yussefmrt@gmail.com**
 
