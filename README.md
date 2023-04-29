@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.yusefmrt.me](https://www.yusefmrt.me)
 
-- 💬 Ask me about **NextJs ReactJs NodeJS NestJs Docker Kubernetes Ngnix AWS DIGITALOCEAN **
+- 💬 Ask me about **NextJs ReactJs NodeJS NestJs Docker Kubernetes Ngnix AWS DIGITALOCEAN**
 
 - 📫 How to reach me **yussefmrt@gmail.com**
 
